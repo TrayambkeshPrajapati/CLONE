@@ -1,0 +1,241 @@
+body{
+    background: linear-gradient(red,yellow,blue,green,magenta);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.navi{
+    background-color: #3c3b3b;
+    height: 70px;
+    border-bottom: 2px solid #555353;
+}
+#inlogo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}   
+#logo{
+    margin-left: 20px;
+    margin-top: 15px;
+    background-image: url(https://www.skidrowcodex.net/wp-content/uploads/2019/01/new-logo.png);
+    background-size: cover;
+    height: 35px;
+    width: 268px;
+}
+.but1{
+    background-color: #3c3b3b;
+    color: white;
+}
+#navbutton{
+      margin-top: 15px;
+      margin-right: 10px;
+}
+
+#line2{
+background-color: #3c3b3b;
+height: 50px;
+}
+
+.border1{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 20px;
+}
+#box1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#lol{
+    display: flex;
+    margin-top: 10px;
+}
+#inbox:hover{
+    background-color:rgb(109, 104, 104);
+}
+#lists:hover{
+    background-color:rgb(109, 104, 104) ;
+}
+#games:hover{
+    background-color:rgb(109, 104, 104) ;
+}
+#genres:hover{
+    background-color: rgb(109, 104, 104);
+}
+#updates:hover{
+    background-color: rgb(109, 104, 104);
+}
+#repacks:hover{
+    background-color: rgb(109, 104, 104);
+}
+#tutorials:hover{
+    background-color: rgb(109, 104, 104);
+}
+#list3{
+background-color: #3c3b3b;
+border: 2px solid #6d6666;
+}
+
+#news{
+    margin: 0px;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    color: black;
+    padding-top: 12px;
+    text-align: center;
+}
+
+#gamebar{
+    border: 3px solid white;
+    background-color: #3c3b3b;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#search2{
+    display: border-box;
+    display: flex;
+    height: 50px;
+    background-color: #3c3b3b;
+    border-bottom: 3px solid white;
+}
+
+#sup{
+    display: flex;
+    align-items: center;
+    border: 2px solid transparent;
+    color: white;
+    width: 50px;
+}
+#searchbar{
+    width: 94%;
+    background-color: #3c3b3b;
+    border: 2px solid transparent;
+}
+main{
+    background-color:#3c3b3b;
+    height: 2400px;
+}
+.mainwin{   
+    margin: 40px;
+    margin-right: 500px;
+    border: 1.5px solid black;
+    height: 310px;
+}
+.gekko{
+    display: block;
+    margin: 10px;
+}
+#advartise{
+    display: block;
+    background-color:#1e1c1c;
+    height: 300px;
+}
+#you{
+    margin-left: 24px;
+}
+#bob{
+background: linear-gradient(white,black);
+width: 301px;
+height: 30px;
+position: relative;
+right: 0.5px;
+top: 20px;
+border: 1px solid #1e1c1c ;
+}
+
+#world{
+height: 300px;
+width: 350px;
+display: block;
+position: relative;
+left: 650px;
+bottom: 250px;
+}
+#advartise{
+position: relative;
+left: 50px;
+}
+#loli{
+    display: inline;
+    position: relative;
+    left: 700px;
+    bottom: 71px;
+}
+.wow{
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: white;
+    color: black;
+    height: 60px;
+    width: 50px;
+    text-align: center;
+}
+.kok{
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 50px;    
+    margin-left: 10px;
+    position: relative;
+    bottom: 15px;
+}
+.image{
+    position: relative;
+    bottom: 90px;
+    left: 120px;
+}
+.descryp{
+    position: relative;
+    bottom: 80px;
+    left: 40px;
+    color: white;
+}
+
+.gotham{
+margin-left: 180px;
+}
+.re4{
+    margin-left: 180px;
+}
+.witcher{
+    margin-left: 150px;
+}
+.DMC{
+    margin-left: 170px;
+}
+.cent{
+    margin-left: 210px;
+}
+.oow{
+    text-align: center;
+    position: relative;
+    bottom: 72px;
+    color: rgb(181, 176, 176);
+    font-size: smaller;
+}
+
+#upcoming{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    align-items: end;
+}
+
+#foot{
+    border-top: 1px solid black;
+    height: 50px;
+    background-color: #3c3b3b;
+}
+#navfoot{
+    border: 1px solid rgb(109, 104, 104);
+    display: flex;
+    align-items: center; 
+    background-color: #1e1c1c;  
+    height: 30px;
+    color: #555353;
+}
